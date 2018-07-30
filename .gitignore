@@ -1,0 +1,18 @@
+# build folder
+build
+
+# WebStrom indexes idea
+.idea
+**/.idea
+
+# Visual Studio indexes vscode
+.vscode
+**/.vscode
+
+# logs
+*.log.*
+**/*.log.*
+**/*.log
+
+# blocks
+**/*.block
